@@ -1,0 +1,62 @@
+{
+  "linear": {
+    "linear": {
+      "accuracy": 0.9733333333333334,
+      "confusion": [
+        [
+          37,
+          1
+        ],
+        [
+          1,
+          36
+        ]
+      ],
+      "test_rows": 75
+    },
+    "rbf": {
+      "accuracy": 0.96,
+      "confusion": [
+        [
+          36,
+          2
+        ],
+        [
+          1,
+          36
+        ]
+      ],
+      "test_rows": 75
+    }
+  },
+  "moons": {
+    "linear": {
+      "accuracy": 0.88,
+      "confusion": [
+        [
+          32,
+          5
+        ],
+        [
+          4,
+          34
+        ]
+      ],
+      "test_rows": 75
+    },
+    "rbf": {
+      "accuracy": 0.9733333333333334,
+      "confusion": [
+        [
+          36,
+          1
+        ],
+        [
+          1,
+          37
+        ]
+      ],
+      "test_rows": 75
+    }
+  }
+}
